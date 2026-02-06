@@ -2,8 +2,8 @@
 
 This repo is for part 2 of the beginner DeCal's Git/version control lab. Fork
 the repo, open README.md and edit the sentence below so that it says your name
-instead of "Andy Yang", and submit a pull request!
+instead of "Tux the Penguin", and submit a pull request!
 
 ```
-Hello, my name is Andy YAng and I just made a pull request!
+Hello, my name is Andy Yang and I just made a pull request!
 ```
